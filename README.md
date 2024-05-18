@@ -1,6 +1,7 @@
-Wow i'm writing code literally # hello_world
+# hello_world
 hi world
 hmmm
-With an
 
-Wow apple interesting pencil
+
+Wow i'm writing code literally
+ apple pencil Wow
